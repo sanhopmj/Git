@@ -2,7 +2,7 @@
 
 import java.io.IOException;
 
-public class QStopExample {
+public class QStopExample { 
 
 	public static void main(String[] args) throws Exception {
 		int keyCode;
