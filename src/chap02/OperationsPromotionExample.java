@@ -1,6 +1,6 @@
 package chap02;
 
-public class OperationsPromotionExample {
+public class OperationsPromotionExample { 
 
 	public static void main(String[] args) {
 		byte byteValue1 = 10;
