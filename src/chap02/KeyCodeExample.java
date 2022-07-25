@@ -2,7 +2,7 @@ package chap02;
 
 import java.io.IOException;
 
-public class KeyCodeExample {
+public class KeyCodeExample { 
 
 	public static void main(String[] args) throws IOException {
 		
