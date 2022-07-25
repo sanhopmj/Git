@@ -1,6 +1,6 @@
 package chap02;
 
-public class CastingExample {
+public class CastingExample { 
 
 	public static void main(String[] args) {
 		//강제 타입 변환
