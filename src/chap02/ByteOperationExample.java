@@ -1,6 +1,6 @@
 package chap02;
 
-public class ByteOperationExample {
+public class ByteOperationExample { 
 
 	public static void main(String[] args) {
 
