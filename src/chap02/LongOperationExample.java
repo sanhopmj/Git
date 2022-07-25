@@ -1,6 +1,6 @@
 package chap02;
 
-public class LongOperationExample {
+public class LongOperationExample { 
 
 	public static void main(String[] args) {
 		byte value1 = 10;
